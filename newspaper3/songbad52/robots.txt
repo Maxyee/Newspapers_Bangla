@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news3.elitedesign.com.bd/sitemap.xml
